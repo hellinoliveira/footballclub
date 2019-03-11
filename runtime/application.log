@@ -1,0 +1,9 @@
+2019/03/09 15:34:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "player".' in /home/hellison/Workspace/php/footBallClub/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hellison/Workspace/php/footBallClub/framework/web/CWebApplication.php(141): CWebApplication->runController('player')
+#1 /home/hellison/Workspace/php/footBallClub/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /home/hellison/Workspace/php/footBallClub/WebRoot/footballclub/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=player
+HTTP_REFERER=http://localhost:8000/site/index
+---
