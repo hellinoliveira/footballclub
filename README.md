@@ -38,11 +38,3 @@ Database
 Create the player database in Mysql with at least 5 players data
 
 Please submit a script of type SQL that will create the player database, tables any queries and player data. Call this script create.sql
-
- 
-
- 
-Finally
-Please Create folder for this project once completed zip the folder and send it back via email.
-
-We will check our email on Monday at 10am for your submission. Hope you enjoy this task!
